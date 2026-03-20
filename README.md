@@ -26,6 +26,9 @@ math with superscripts subscripts and greek symbols automatically.
 | `$k_a = y^a \mod P$` | kₐ = yᵃ mod P |
 
 ---
+> ⚠️ **Note:** Please check your document after running. Depending on 
+> how the LaTeX was written in your text, some formulas may not convert 
+> perfectly and will need to be fixed manually.
 
 ## Requirements
 - Microsoft Word on **Windows only**
